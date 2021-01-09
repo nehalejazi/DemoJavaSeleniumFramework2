@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16178" started-at="2021-01-09T21:27:07Z" finished-at="2021-01-09T21:27:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16178" started-at="2021-01-09T21:27:07Z" finished-at="2021-01-09T21:27:23Z">
+      <class name="com.Tricentis.tests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Tricentis.tests.LoginTest@6fb554cc]" name="setUp" is-config="true" duration-ms="13422" started-at="2021-01-09T21:27:07Z" finished-at="2021-01-09T21:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.Tricentis.tests.LoginTest@6fb554cc]" name="Login" duration-ms="1465" started-at="2021-01-09T21:27:20Z" finished-at="2021-01-09T21:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Tricentis.tests.LoginTest@6fb554cc]" name="tearDown" is-config="true" duration-ms="1214" started-at="2021-01-09T21:27:22Z" finished-at="2021-01-09T21:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Tricentis.tests.LoginTest -->
+      <class name="com.Tricentis.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Tricentis.tests.HomePageTest@614c5515]" name="setUp" is-config="true" duration-ms="12387" started-at="2021-01-09T21:27:07Z" finished-at="2021-01-09T21:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.Tricentis.tests.HomePageTest@614c5515]" name="Login" duration-ms="59" started-at="2021-01-09T21:27:19Z" finished-at="2021-01-09T21:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Tricentis.tests.HomePageTest@614c5515]" name="tearDown" is-config="true" duration-ms="2553" started-at="2021-01-09T21:27:19Z" finished-at="2021-01-09T21:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Tricentis.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
